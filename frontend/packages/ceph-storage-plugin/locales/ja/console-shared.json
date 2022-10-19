@@ -1,7 +1,7 @@
 {
-  "View {{title}} metrics in query browser": "クエリーブラウザーの {{title}} メトリクスの表示",
+  "View {{title}} metrics in query browser": "クエリーブラウザーの  メトリクスの表示",
   "Not available": "利用不可",
-  "{{humanAvailable}} available of {{humanLimit}} total limit": "利用可能: {{humanAvailable}}/{{humanLimit}} 合計制限",
-  "{{humanAvailable}} available of {{humanMax}}": "利用可能: {{humanAvailable}}/{{humanMax}}",
-  "{{humanAvailable}} available": "利用可能: {{humanAvailable}}"
+  "{{humanAvailable}} available of {{humanLimit}} total limit": "{{humanAvailable}} の合計制限({{humanLimit}})で利用可能",
+  "{{humanAvailable}} available of {{humanMax}}": "{{humanAvailable}} は {{humanMax}} で利用可能",
+  "{{humanAvailable}} available": "{{humanAvailable}} 利用可能"
 }
